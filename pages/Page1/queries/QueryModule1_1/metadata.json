@@ -1,24 +1,17 @@
 {
-  "moduleInstanceId": "Page1_QueryModule1_1",
+  "gitSyncId": "65ca3958630a3b0fe3460c48_65ca3972630a3b0fe3460c59",
+  "id": "Page1__$QueryModule1_1$_QueryModule1",
   "isPublic": true,
-  "rootModuleInstanceId": "Page1_QueryModule1_1",
-  "pluginType": "DB",
+  "moduleInstanceId": "Page1_QueryModule1_1",
   "pluginId": "postgres-plugin",
+  "pluginType": "DB",
+  "rootModuleInstanceId": "Page1_QueryModule1_1",
   "unpublishedAction": {
-    "name": "_$QueryModule1_1$_QueryModule1",
-    "pageId": "Page1",
+    "confirmBeforeExecute": false,
     "contextType": "PAGE",
     "executeOnLoad": true,
-    "isValid": true,
-    "invalids": [],
-    "messages": [],
-    "userSetOnLoad": true,
-    "confirmBeforeExecute": false,
-    "policies": [],
-    "userPermissions": [],
-    "createdAt": "2024-02-12T15:22:30Z"
-  },
-  "id": "Page1__$QueryModule1_1$_QueryModule1",
-  "deleted": false,
-  "gitSyncId": "65ca3958630a3b0fe3460c48_65ca3972630a3b0fe3460c59"
+    "name": "_$QueryModule1_1$_QueryModule1",
+    "pageId": "Page1",
+    "userSetOnLoad": true
+  }
 }
