@@ -2,6 +2,7 @@
   "gitSyncId": "65ca3958630a3b0fe3460c48_65ca3972630a3b0fe3460c57",
   "id": "Page1_QueryModule1_1",
   "moduleUUID": "65ca37b6630a3b0fe3460bf9",
+  "packageUUID": "65ca37a8630a3b0fe3460bf2",
   "type": "QUERY_MODULE",
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
